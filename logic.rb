@@ -99,7 +99,7 @@ def game_start(computer_pattern)
 
     computer_pattern2 = []
 
-    if response == ['white peg', 'white peg', 'white peg', 'white peg']
+    if response[0] == "white peg" && response[1] == "white peg" && response[2] == "white peg" && response[3] == "white peg"
       puts "CORRECT"
       return
     end
