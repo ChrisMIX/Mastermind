@@ -8,4 +8,4 @@ The initial idea is for a ruby algorithm but it may be put into a more fleshed o
 
 Updates...
 
-1/8/19 - The logic of the game has been created. From here an interface will be developed using rails.
+1/8/19 - The logic of the game has been created. From here an interface will be developed using rails. Initially there will be an online functionality but initially it will be just games vs computer.
